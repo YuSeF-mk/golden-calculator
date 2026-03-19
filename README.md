@@ -1,9 +1,13 @@
-Live Demo: https://your-link-here
+>Live Demo: https://yusef-mk.github.io/golden-calculator
+>Screenshot
+assets/calculator.png
 > Web Project : Golden Calculator 
+
 A fully functional, responsive web calculator built with a focus on clean UI and robust input logic. This project was my first deep dive into handling  user input and data handling using JavaScript.
 
 
 > Features included:
+
 1-Smart Input Validation: Prevents invalid mathematical expressions (
   -prevents multiple consecutive operators ,
   -multiple decimals in one number
@@ -17,6 +21,7 @@ A fully functional, responsive web calculator built with a focus on clean UI and
 
 
 > Tech Stack:
+
 -HTML5
 -CSS3
 -JavaScript (ES6+)
@@ -24,6 +29,7 @@ Icons: FontAwesome
 
 
 > Project Structure
+
 .
 ├── main.html
 ├── README.md
@@ -34,6 +40,7 @@ Icons: FontAwesome
 
 
 > Technical Challenges Overcome
+
 1-The leading zeros Bug: handling numbers like 05 + 00.2 was a challenge . Using standard eval() on these caused errors.
 I solved this by creating a custom loop that splits the string into a numbers list, converts each segment to a proper number type, and then joins them back together before evaluation.
 2-Multiple Operators Problem:  to prevent broken expressions like 5 ++ 3 or 8 */ 2. I implemented a state checking mechanism that inspects the final character of the display string.
@@ -43,8 +50,9 @@ ensuring the expression remains mathematically valid.
 Like numbers , the operators , and enter/backspace.
 
 
-> How to Run
+> How to Run:
+
 Clone or download the project
 Open main.html in your browser :)
 
-11-2025 Youssef .MK
+> 11-2025 Youssef .MK
