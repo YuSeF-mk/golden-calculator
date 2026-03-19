@@ -2,7 +2,7 @@
 
 
 >Screenshot
-calculator.png
+![Golden Calculator Screenshot](calculator-screenshot.png)
 
 
 > Web Project : Golden Calculator 
