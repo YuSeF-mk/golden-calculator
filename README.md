@@ -1,8 +1,8 @@
 >Live Demo: https://yusef-mk.github.io/golden-calculator
 
 
->Screenshot
-![Golden Calculator Screenshot](calculator-screenshot.png)
+>Golden Calculator Screenshot
+(calculator.png)
 
 
 > Web Project : Golden Calculator 
