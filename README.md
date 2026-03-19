@@ -1,6 +1,10 @@
 >Live Demo: https://yusef-mk.github.io/golden-calculator
+
+
 >Screenshot
-assets/calculator.png
+calculator.png
+
+
 > Web Project : Golden Calculator 
 
 A fully functional, responsive web calculator built with a focus on clean UI and robust input logic. This project was my first deep dive into handling  user input and data handling using JavaScript.
